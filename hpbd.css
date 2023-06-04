@@ -153,6 +153,8 @@ body {
     transform: translate(-50%, 20px);
     animation: animateBanner 1s ease-in-out 1s infinite alternate;
     z-index: 5;
+    width: 50%;
+    bottom: 120px;
 }
 
 @keyframes animateBalloon {
